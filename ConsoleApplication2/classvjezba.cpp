@@ -4,7 +4,7 @@
 namespace classvjezba {
 		
 	int zbroji() {
-		return 2 + 2;
+		return 2 + 6;
 	}
 
 }
