@@ -1,3 +1,4 @@
+
 #include "classvjezba.h"
 #include "iostream"
 namespace classvjezba {
@@ -7,3 +8,4 @@ namespace classvjezba {
 	}
 
 }
+
